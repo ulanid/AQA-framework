@@ -15,8 +15,7 @@ public class Task5 {
             File inputJson= new File("C:\\Users\\Uliana\\IdeaProjects\\AQA-framework\\AQA_framework_3\\src\\main\\resources\\task_5\\input.json");
             File outputJson= new File("C:\\Users\\Uliana\\IdeaProjects\\AQA-framework\\AQA_framework_3\\src\\main\\resources\\task_5\\output.json");
 
-            FruitBasket fruitBasket =
-                    objectMapper.readValue(Files.readString(inputJson.getAbsoluteFile().toPath()), FruitBasket.class);
+            FruitBasket fruitBasket = objectMapper.readValue(Files.readString(inputJson.getAbsoluteFile().toPath()), FruitBasket.class);
             System.out.println(fruitBasket);
             fruitBasket.setIsTasty(false);
             fruitBasket.getFruits().add("avocado");
