@@ -22,7 +22,14 @@ public class Task7 {
         fruit.setFruitBasket(fruitBasket);
         fruitBasket.setFruit(fruit);
 
+        List<Supplier> suppliers = generateSuppliers();
+        fruit.setSuppliers(suppliers);
+        suppliers.forEach(supplier -> supplier.setFruits(Arrays.asList(fruit)));
+
         session.save(fruitBasket);
+        session.save(fruit);
+        suppliers.forEach(session::save);
+
         transaction.commit();
 
         //read
@@ -43,6 +50,8 @@ public class Task7 {
         session.delete(savedBasket);
         session.getTransaction().commit();
 
+        session.close();
+
     }
 
     private static Fruit generateFruit() {
@@ -58,6 +67,20 @@ public class Task7 {
         List<String> fruitTypes = Arrays.asList("Citrus", "Berry", "Tropical");
         res.setType(fruitTypes.get(random.nextInt(fruitTypes.size())));
         return res;
+    }
+
+    private static List<Supplier> generateSuppliers() {
+        Random random = new Random();
+        Supplier supplier1 = new Supplier();
+        supplier1.setName("Supplier_" + UUID.randomUUID().toString().substring(0, 8));
+
+        Supplier supplier2 = new Supplier();
+        supplier2.setName("Supplier_" + UUID.randomUUID().toString().substring(0, 8));
+
+        Supplier supplier3 = new Supplier();
+        supplier3.setName("Supplier_" + UUID.randomUUID().toString().substring(0, 8));
+
+        return Arrays.asList(supplier1, supplier2, supplier3);
     }
 
 }

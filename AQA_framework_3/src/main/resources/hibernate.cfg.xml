@@ -20,6 +20,7 @@
 
         <mapping class="task_7.Fruit"/>
         <mapping class="task_7.FruitBasket"/>
+        <mapping class="task_7.Supplier"/>
 
     </session-factory>
 </hibernate-configuration>

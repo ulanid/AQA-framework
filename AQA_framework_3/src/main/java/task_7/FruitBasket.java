@@ -21,6 +21,17 @@ public class FruitBasket implements Serializable {
     @OneToOne(mappedBy = "fruitBasket", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Fruit fruit;
 
+    @OneToMany(mappedBy = "fruitBasket", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private List<Fruit> fruits;
+
+    public List<Fruit> getFruits() {
+        return fruits;
+    }
+
+    public void setFruits(List<Fruit> fruits) {
+        this.fruits = fruits;
+    }
+
     public Long getId() {
         return id;
     }
