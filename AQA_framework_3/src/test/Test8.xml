@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Task8 suite" verbose="5">
+    <test name="Task8 Test Suite">
+        <parameter name="v1" value="10" />
+        <parameter name="v2" value="20" />
+        <parameter name="expectedResult" value="Variable 'v2' is greater than 'v1'" />
+        <classes>
+            <class name="task_8.Task8Test">
+                <methods>
+                    <include name="testCompare" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Parameter Test for isEven">
+        <parameter name="num" value="4" />
+        <parameter name="expectedResult" value="Even" />
+        <classes>
+            <class name="task_8.Task8Test">
+                <methods>
+                    <include name="testIsEven" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

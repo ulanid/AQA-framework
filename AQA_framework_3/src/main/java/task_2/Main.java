@@ -1,19 +1,31 @@
 package task_2;
 
 public class Main {
-    public static void main(String[] args) {
 
-        int v1 = 10;
-        int v2 = 20;
+    public String compare(int v1, int v2) {
 
         if (v1 > v2) {
-            System.out.println("Variable 'v1' is greater than 'v2'");
+            return "Variable 'v1' is greater than 'v2'";
         } else if (v1 < v2) {
-            System.out.println("Variable 'v2' is greater than 'v1'");
+            return "Variable 'v2' is greater than 'v1'";
         } else {
-            System.out.println("Both variables are equal");
+            return "Both variables are equal";
         }
+    }
 
+    public String isEven(int num) {
+        return num % 2 == 0 ? "Even" : "Odd";
+    }
+
+    public int maxOfThree(int n1, int n2, int n3) {
+        return Math.max(n1, Math.max(n2, n3));
+    }
+
+    public static void main(String[] args) {
+        Main main = new Main();
+        System.out.println(main.compare(10, 20));
+        System.out.println(main.isEven(5));
+        System.out.println(main.maxOfThree(5, 8, 1));
     }
 }
 
