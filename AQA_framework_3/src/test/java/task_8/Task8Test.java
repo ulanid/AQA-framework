@@ -25,8 +25,8 @@ public class Task8Test {
         Assert.assertEquals(actualResult, expectedResult, "unexpected result");
     }
     @Test(dataProvider = "maxOfThreeProvider")
-    public void testMaxOfThree(int a, int b, int c, int expectedResult) {
-        int actualResult = main.maxOfThree(a, b, c);
+    public void testMaxOfThree(int n1, int n2, int n3, int expectedResult) {
+        int actualResult = main.maxOfThree(n1, n2, n3);
         Assert.assertEquals(actualResult, expectedResult, "unexpected result");
     }
 
