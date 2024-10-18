@@ -19,7 +19,7 @@ import static task_11.DriverPull.wait;
 public class Task11Test {
 
     @Test
-    void task11Test(){
+    public void task11Test(){
 
         //Step 1 - verify homePage button
         new HomePageBO().getIndex().verifyHomePageButtn()

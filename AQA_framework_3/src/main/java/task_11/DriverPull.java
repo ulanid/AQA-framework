@@ -7,8 +7,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class DriverPull {
-    static WebDriverWait wait;
-    static WebDriver getDriver(){
+    public static WebDriverWait wait;
+    public static WebDriver getDriver(){
 
         if(driver==null) {
             System.setProperty("webdriver.chrome.driver",
