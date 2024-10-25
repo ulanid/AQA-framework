@@ -23,3 +23,83 @@
 2024-10-21 12:39:15 INFO  MyExecutionListener.beforeInvocation - Starting: task11Test
 2024-10-21 12:39:16 INFO  MyExecutionListener.afterInvocation - Finished: task11Test
 2024-10-21 12:39:16 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 11:38:38 INFO  MyExecutionListener.beforeInvocation - Starting: init
+2024-10-24 11:38:38 INFO  MyExecutionListener.afterInvocation - Finished: init
+2024-10-24 11:38:38 INFO  MyTestListener.onTestStart - Test Started: task11Test 
+2024-10-24 11:38:38 INFO  MyExecutionListener.beforeInvocation - Starting: task11Test
+2024-10-24 11:38:41 INFO  MyExecutionListener.afterInvocation - Finished: task11Test
+2024-10-24 11:38:41 INFO  MyTestListener.onTestStart - Test Started: task11FailureTest HomePage modal test suite
+2024-10-24 11:38:41 INFO  MyExecutionListener.beforeInvocation - Starting: task11FailureTest
+2024-10-24 11:38:41 INFO  MyExecutionListener.afterInvocation - Finished: task11FailureTest
+2024-10-24 11:38:41 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 11:38:41 INFO  MyExecutionListener.beforeInvocation - Starting: task11Test
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: task11Test
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testCompare 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testCompare
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testCompare
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testCompare 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testCompare 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testCompare
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testCompare
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testCompare 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testCompare 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testCompare
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testCompare
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testCompare 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testIsEven 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testIsEven
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testIsEven
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testIsEven 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testIsEven 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testIsEven
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testIsEven
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testIsEven 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyTestListener.onTestStart - Test Started: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: testMaxOfThree
+2024-10-24 11:38:42 INFO  MyTestListener.onTestSuccess - Test Passed: testMaxOfThree 
+2024-10-24 11:38:42 INFO  MyExecutionListener.beforeInvocation - Starting: closeBrowser
+2024-10-24 11:38:42 INFO  MyExecutionListener.afterInvocation - Finished: closeBrowser
+2024-10-24 19:30:43 INFO  MyTestListener.onTestStart - Test Started: task11FailureTest HomePage modal test suite
+2024-10-24 19:30:46 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:30:47 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:31:04 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:31:07 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:36:56 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:36:59 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:39:32 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:39:36 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:41:09 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:41:12 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:42:45 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:42:48 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:46:48 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:46:51 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-24 19:53:00 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-24 19:53:03 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-25 13:39:30 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-25 13:39:34 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-25 14:05:45 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-25 14:05:49 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-25 14:09:19 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-25 14:09:21 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-25 14:13:21 INFO  MyTestListener.onTestStart - Test Started: task11Test HomePage modal test suite
+2024-10-25 14:13:24 INFO  MyTestListener.onTestSuccess - Test Passed: task11Test HomePage modal test suite
+2024-10-25 14:16:45 INFO  MyTestListener.onTestStart - Test Started: task14Test HomePage modal test suite
+2024-10-25 14:23:57 INFO  MyTestListener.onTestStart - Test Started: task14Test HomePage modal test suite
+2024-10-25 14:23:58 ERROR MyTestListener.onTestFailure - task14Test onTestFailure
+2024-10-25 14:23:58 ERROR MyTestListener.makeScreenShot - makeScreenShot
+2024-10-25 14:23:58 ERROR MyTestListener.makeDOMAttachment - makeDOMAttachment
+2024-10-25 14:27:08 INFO  MyTestListener.onTestStart - Test Started: task14Test HomePage modal test suite
+2024-10-25 14:27:09 ERROR MyTestListener.makeDOMAttachment - makeDOMAttachment
+2024-10-25 14:27:09 ERROR MyTestListener.makeScreenShot - makeScreenShot
+2024-10-25 14:27:09 ERROR MyTestListener.onTestFailure - task14Test onTestFailure

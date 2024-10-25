@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9bd31b0-ca38-4d63-a8af-9c42b7e04c08" name="Changes" comment="task13 update">
+      <change afterPath="$PROJECT_DIR$/AQA_framework_3/src/main/java/task_14/DriverPull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AQA_framework_3/src/main/java/task_14/HomePage14BO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AQA_framework_3/src/main/java/task_14/HomePage14Po.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AQA_framework_3/src/main/java/task_14/MyTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AQA_framework_3/src/test/java/task_14/Task14Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AQA_framework_3/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/AQA_framework_3/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AQA_framework_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AQA_framework_3/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lLRSvb8lT37JSvfwsQqv0OxAkY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5XML.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3_Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4_Reflection.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.Task10.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task10.task10Test (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Task10.task10Test.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Task10Manager.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task10Manager.task10Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task11.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task11Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task11Test.task11Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task12Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task12Test.task11Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task14Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task8Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Task8Test.testCondition.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Uliana/IdeaProjects/AQA-framework/AQA_framework_3/src/main/java/task_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Uliana/IdeaProjects/AQA-framework/AQA_framework_3/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="task_11" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uliana\IdeaProjects\AQA-framework\AQA_framework_3\src\main\java\task_12" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task_14" />
+      <recent name="task_11" />
+      <recent name="task_10" />
+      <recent name="task_7" />
+      <recent name="task_6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Task10Manager.task10Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_framework_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task_10" />
+      <option name="MAIN_CLASS_NAME" value="task_10.Task10Manager" />
+      <option name="METHOD_NAME" value="task10Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10.task10Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_framework_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task_10" />
+      <option name="MAIN_CLASS_NAME" value="task_10.Task10" />
+      <option name="METHOD_NAME" value="task10Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_framework_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task_11" />
+      <option name="MAIN_CLASS_NAME" value="task_11.Task11" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task11Test.task11Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_framework_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task_11" />
+      <option name="MAIN_CLASS_NAME" value="task_11.Task11Test" />
+      <option name="METHOD_NAME" value="task11Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task12Test.task11Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_framework_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task_12" />
+      <option name="MAIN_CLASS_NAME" value="task_12.Task12Test" />
+      <option name="METHOD_NAME" value="task11Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Task12Test.task11Test" />
+        <item itemvalue="TestNG.Task11Test.task11Test" />
+        <item itemvalue="TestNG.Task11" />
+        <item itemvalue="TestNG.Task10.task10Test" />
+        <item itemvalue="TestNG.Task10Manager.task10Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9bd31b0-ca38-4d63-a8af-9c42b7e04c08" name="Changes" comment="" />
+      <created>1724957373140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724957373140</updated>
+      <workItem from="1724957374224" duration="1565000" />
+      <workItem from="1725015895919" duration="2605000" />
+      <workItem from="1725270095378" duration="94000" />
+      <workItem from="1725281444209" duration="6090000" />
+      <workItem from="1725619739973" duration="5886000" />
+      <workItem from="1725639554346" duration="2432000" />
+      <workItem from="1725641997738" duration="644000" />
+      <workItem from="1726222577544" duration="5547000" />
+      <workItem from="1726312908555" duration="6441000" />
+      <workItem from="1726473795396" duration="1230000" />
+      <workItem from="1726475145179" duration="42000" />
+      <workItem from="1726827147363" duration="4271000" />
+      <workItem from="1727115272788" duration="4053000" />
+      <workItem from="1727376256040" duration="22000" />
+      <workItem from="1727434300328" duration="619000" />
+      <workItem from="1727792562443" duration="6452000" />
+      <workItem from="1728037686985" duration="7612000" />
+      <workItem from="1728051380484" duration="167000" />
+      <workItem from="1728644308095" duration="1285000" />
+      <workItem from="1729090090557" duration="2940000" />
+      <workItem from="1729248699565" duration="3545000" />
+      <workItem from="1729499085493" duration="5175000" />
+      <workItem from="1729526010413" duration="952000" />
+      <workItem from="1729528593573" duration="391000" />
+      <workItem from="1729758186811" duration="72000" />
+      <workItem from="1729758267674" duration="64000" />
+      <workItem from="1729758342358" duration="250000" />
+      <workItem from="1729758602279" duration="224000" />
+      <workItem from="1729758835680" duration="387000" />
+      <workItem from="1729785884280" duration="2901000" />
+      <workItem from="1729788802468" duration="175000" />
+      <workItem from="1729852698021" duration="2537000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1724958900269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724958900269</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task3">
+      <option name="closed" value="true" />
+      <created>1725283550829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725283550829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task4">
+      <option name="closed" value="true" />
+      <created>1725287464950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725287464950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task5">
+      <option name="closed" value="true" />
+      <created>1725642564993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725642564993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1726319433204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726319433204</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1726475011722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726475011723</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task8">
+      <option name="closed" value="true" />
+      <created>1727119073777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727119073777</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task8">
+      <option name="closed" value="true" />
+      <created>1727119516613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727119516613</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task10">
+      <option name="closed" value="true" />
+      <created>1727799056608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727799056608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task11">
+      <option name="closed" value="true" />
+      <created>1728051393137</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728051393137</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task11">
+      <option name="closed" value="true" />
+      <created>1728051413635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728051413635</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task12">
+      <option name="closed" value="true" />
+      <created>1729249796139</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729249796140</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task13">
+      <option name="closed" value="true" />
+      <created>1729503698522</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729503698522</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task13 update">
+      <option name="closed" value="true" />
+      <created>1729503772092</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729503772092</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="task3" />
+    <MESSAGE value="task4" />
+    <MESSAGE value="task5" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="update" />
+    <MESSAGE value="task8" />
+    <MESSAGE value="task10" />
+    <MESSAGE value="task11" />
+    <MESSAGE value="task12" />
+    <MESSAGE value="task13" />
+    <MESSAGE value="task13 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="task13 update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AQA_framework_3/src/test/java/task_10/Task10.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AQA_framework_3/src/test/java/task_11/Task11Test.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
